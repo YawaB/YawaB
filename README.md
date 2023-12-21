@@ -1,7 +1,7 @@
 - 👋 Hello word, I’m @YawaB
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on  front-end projects
+- 👀 I’m Software engineer
+- 🌱 Web and mobile development
+- 💞️ Java/ ReactJs/ Angular
 
 
 <!---
