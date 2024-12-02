@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&repeat=true&color=2A5645&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+%2C+I'm+Yawa;Software+engineer+Spring+%7C+Angular+Javascript++%E2%9C%A9" width="70%" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&repeat=true&color=2A5645&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+%2C+I'm+Yawa;Software+engineer+%E2%9C%A9" width="70%" /> 
 </div>
 
 ## Contact
@@ -29,14 +29,8 @@
 <div align="center">
 
 </div>
-
-
-## 🔭Actions
-
-> Reading | Technology Watch Report
-
-<a href="https://app.daily.dev/universducode">
-  <img src="https://github.com/YawaB/YawaB/blob/main/devcard.svg" width="200" alt="Univers Ducode's Dev Card"/>
+<a  align="center" href="https://app.daily.dev/universducode">
+  <img src="https://github.com/YawaB/YawaB/blob/main/devcard.svg" width="100" height="100" alt="Univers Ducode's Dev Card"/>
 </a>
 <div align="center">
 <h3 align="center">Made with &nbsp; 𓆩♡𓆪 &nbsp; You can star this repo!</h3>
